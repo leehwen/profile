@@ -19,7 +19,8 @@ a {
   background-color: #9E3C15;
   color: #FFFFFF;
   padding: 10px 10px;
-  margin-top: 20px;
+  margin-top: 10px;
+  margin-bottom: 25px;
   border-radius: 5px;
   text-decoration: none;
   display: inline-block;
@@ -52,7 +53,7 @@ h2 {
 }
 
 .email-no-background:hover{
-  background-color: rgba(0, 0, 0, 0)
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .no-background {
@@ -65,7 +66,7 @@ h2 {
 }
 
 .a-no-background {
-  background-color:#EDE7DC;
+  background-color:rgba(0, 0, 0, 0);
   color: #FFFFFF;
   padding: 0px 0px;
   margin: 0px;
@@ -75,7 +76,7 @@ h2 {
 }
 
 .a-no-background:hover{
-  background-color: rgba(0, 0, 0, 0)
+  background-color: transparent;
 }
 
 .round-image {
