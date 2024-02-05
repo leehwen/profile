@@ -43,6 +43,18 @@ h2 {
   color: #323B36;
 }
 
+.email-no-background {
+  background-color: rgba(0, 0, 0, 0);
+  color: #343B36;
+  padding: 0px 0px;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+.email-no-background:hover{
+  background-color: rgba(0, 0, 0, 0)
+}
+
 .no-background {
   background-color: #EDE7DC;
   width: 750px;
@@ -60,7 +72,10 @@ h2 {
   border-radius: 5px;
   text-decoration: none;
   display: inline-block;
-  transition: 0.3s ease;
+}
+
+.a-no-background:hover{
+  background-color: rgba(0, 0, 0, 0)
 }
 
 .round-image {
